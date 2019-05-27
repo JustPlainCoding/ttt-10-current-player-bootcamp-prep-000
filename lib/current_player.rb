@@ -5,8 +5,8 @@ def turn_count(board)
     puts space
     if space == "X" || space = "O"
     counter += 1
+    puts counter
     else
     end
   end 
-  return counter
 end
